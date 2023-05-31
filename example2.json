@@ -1,0 +1,22 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/golang-training-examples/example2/releases/download/v0.3.0/example2_v0.3.0_windows_386.zip",
+            "bin": [
+                "example2.exe"
+            ],
+            "hash": "cef17edc2b0b11f24de7e7bb09d239d98b5fdbc26855c841c6de72918dfe005f"
+        },
+        "64bit": {
+            "url": "https://github.com/golang-training-examples/example2/releases/download/v0.3.0/example2_v0.3.0_windows_amd64.zip",
+            "bin": [
+                "example2.exe"
+            ],
+            "hash": "8d4e398e1d2cb006285152fcf9166c07cc6ae89ca35eec4981221211272e440a"
+        }
+    },
+    "homepage": "https://github.com/golang-training-examples/example2",
+    "license": "MIT",
+    "description": "Example for Golang Training"
+}
