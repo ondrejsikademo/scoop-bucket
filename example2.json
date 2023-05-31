@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/golang-training-examples/example2/releases/download/v0.3.0/example2_v0.3.0_windows_386.zip",
+            "url": "https://github.com/golang-training-examples/example2/releases/download/v0.4.0/example2_v0.4.0_windows_386.zip",
             "bin": [
                 "example2.exe"
             ],
-            "hash": "cef17edc2b0b11f24de7e7bb09d239d98b5fdbc26855c841c6de72918dfe005f"
+            "hash": "11c5b9685b960652d1cd706c30eb9b13c65bd6b60107b75561782a6499f4ff57"
         },
         "64bit": {
-            "url": "https://github.com/golang-training-examples/example2/releases/download/v0.3.0/example2_v0.3.0_windows_amd64.zip",
+            "url": "https://github.com/golang-training-examples/example2/releases/download/v0.4.0/example2_v0.4.0_windows_amd64.zip",
             "bin": [
                 "example2.exe"
             ],
-            "hash": "8d4e398e1d2cb006285152fcf9166c07cc6ae89ca35eec4981221211272e440a"
+            "hash": "b2130dc9fbd84b03e86f98bfff41a2a2b4c7a303b9dfe3bf8210311b6a251c06"
         }
     },
     "homepage": "https://github.com/golang-training-examples/example2",
